@@ -1,13 +1,4 @@
-import requests
 from classes import HeadHunterAPI, SuperJobAPI, Vacancy, Connector
-from utils import get_currencies
-
-# Сохранение информации о вакансиях в файл
-# json_saver = JSONSaver()
-# json_saver.add_vacancy(vacancy)
-# json_saver.get_vacancies_by_salary("100 000-150 000 руб.")
-# json_saver.delete_vacancy(vacancy)
-
 
 def main():
     vacancies_json = []
@@ -18,22 +9,28 @@ def main():
     sj = SuperJobAPI(keyword)
 
     """Получение вакансий с разных платформ"""
-    hh_vacancies = hh.get_vacancies()
-    print(hh_vacancies)
-    sj_vacancies = sj.get_vacancies()
-    print(sj_vacancies)
+    # hh_vacancies = hh.get_request()
+    # print(hh_vacancies)
+    # hh_vacancies = hh.get_vacancies()
+    # print(hh_vacancies)
+    # hh_vacancies = hh.get_formatted_vacancies()
+    # print(hh_vacancies)
+    # sj_vacancies = sj.get_request()
+    # sj_vacancies = sj.get_vacancies()
+    # sj_vacancies = sj.get_formatted_vacancies()
+    # print(sj_vacancies)
 
     for api in (hh, sj):
         api.get_vacancies(pages_count=2)
         vacancies_json.extend(api.get_formatted_vacancies())
 
-    connector = Connector(keyword=keyword, vacancies_json=vacancies_json)
+    connector = Connector(keyword=keyword)
     connector.insert(vacancies_json=vacancies_json)
-
-    """Создание экземпляра класса для работы с вакансиями"""
-    vacancy = Vacancy("Python Developer", "<https://hh.ru/vacancy/123456>", "100 000-150 000 руб.",
-                      "Требования: опыт работы от 3 лет...")
-    print(vacancy)
+    connector.select(vacancies_json=vacancies_json)
+    # vacancy_1 = Vacancy("1234567", "Разработчик", "http/developer", "Headhunter", 100000, 120000, "RUR", 1)
+    # vacancy_2 = Vacancy("1234567", "Тестировщик", "http/developer", "SuperJob", 120000, 140000, "RUR", 1)
+    # vacancy_1.sorted_by_salary(150000)
+    # vacancy_2.sorted_by_salary(150000)
 
     while True:
         command = input(
@@ -45,30 +42,12 @@ def main():
         if command.lower() == "exit":
             break
         elif command == "1":
-            vacancies = connector.select()
+            vacancies = connector.select("Python")
         elif command == "2":
-            vacancies = connector.Vacancy
+            vacancies = vacancy.sorted_by_salary(150000)
 
         for vacancy in vacancies:
             print(vacancy, end="\n")
 
-#Функция для взаимодействия с пользователем
-def user_interaction():
-    platforms = ["HeadHunter", "SuperJob"]
-    search_query = input("Введите поисковый запрос: ")
-    top_n = int(input("Введите количество вакансий для вывода в топ N: "))
-    filter_words = input("Введите ключевые слова для фильтрации вакансий: ").split()
-    filtered_vacancies = Vacancy(filter_words)
-
-    if not filtered_vacancies:
-        print("Нет вакансий, соответствующих заданным критериям.")
-        return
-
-    sorted_vacancies = Vacancy(filtered_vacancies)
-    top_vacancies = Vacancy(sorted_vacancies, top_n)
-    print(top_vacancies)
-
-
 if __name__ == "__main__":
     main()
-    #user_interaction()

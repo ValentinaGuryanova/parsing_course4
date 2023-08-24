@@ -1,13 +1,11 @@
 from abc import abstractmethod, ABC
 from exceptions import ParsingError
-from utils import get_currencies
 
 import requests
 import json
 import os
 
 value = os.getenv('X-Api-App-Id')
-
 
 class Engine(ABC):
     """Абстрактный родительский класс"""
@@ -28,7 +26,7 @@ class HeadHunterAPI(Engine):
 
         self.params = {
             "per_page": 100,
-            "page": None,
+            "page": int,
             "text": keyword,
             "archived": False,
         }
@@ -42,13 +40,6 @@ class HeadHunterAPI(Engine):
 
     def get_formatted_vacancies(self):
         formatted_vacancies = []
-        currency = get_currencies()
-        hh_currencies = {
-            "rub": "RUR",
-            "uah": "UAH",
-            "uzs": "UZS",
-        }
-
         for vacancy in self.vacancies:
             formatted_vacancy = {
                 "employer": vacancy["id"],
@@ -57,26 +48,13 @@ class HeadHunterAPI(Engine):
                 "api": "HeadHunter",
                 "salary_from": vacancy["salary"]["from"] if vacancy["salary"] else None,
                 "salary_to": vacancy["salary"]["to"] if vacancy["salary"] else None,
-                # "currency": vacancy["currency"],
-                # "currency_value": vacancy["currency_value"]
             }
-            if vacancy["currency"] in hh_currencies:
-                formatted_vacancy["currency"] = hh_currencies[vacancy["currency"]]
-                formatted_vacancy["currency_value"] = hh_currencies[hh_currencies[vacancy["currency"]]] in hh_currencies[vacancy["currency"]]
-            elif vacancy["currency"]:
-                formatted_vacancy["currency"] = "RUR"
-                formatted_vacancy["currency_value"] = 1
-            else:
-                formatted_vacancy["currency"] = None
-                formatted_vacancy["currency_value"] = None
-
             formatted_vacancies.append(formatted_vacancy)
-
         return formatted_vacancies
 
 
     def get_vacancies(self, pages_count=2):
-        self.vacancies = []
+        self.vacanсies = []
         for page in range(pages_count):
             page_vacancies = []
             self.params["page"] = page
@@ -86,9 +64,9 @@ class HeadHunterAPI(Engine):
             except ParsingError as error:
                 print(error)
             else:
-                self.vacancies.extend(page_vacancies["items"])
-                print(f"Загружено вакансий: { len(page_vacancies['items']) }")
-            if len(page_vacancies["items"]) == 0:
+                self.vacanсies.extend(page_vacancies)
+                print(f"Загружено вакансий: { len(page_vacancies) }")
+            if len(page_vacancies) == 0:
                 break
         return self.vacancies
 
@@ -117,7 +95,7 @@ class SuperJobAPI(Engine):
 
     def get_formatted_vacancies(self):
         formatted_vacancies = []
-        currencies = get_currencies()
+        #currencies = get_currencies()
         sj_currencies = {
             "rub": "RUR",
             "uah": "UAH",
@@ -167,15 +145,15 @@ class SuperJobAPI(Engine):
 
 class Vacancy:
 
-    def __init__(self, vacancy):
-        self.employer = vacancy["employer"]
-        self.title = vacancy["title"]
-        self.url = vacancy["url"]
-        self.api = vacancy["api"]
-        self.salary_from = vacancy["salary_from"]
-        self.salary_to = vacancy["salary_to"]
-        self.currency = vacancy["currency"]
-        self.currency_value = vacancy["currency_value"]
+    def __init__(self, employer, title, url, api, salary_from, salary_to, currency, currency_value):
+        self.employer = employer
+        self.title = title
+        self.url = url
+        self.api = api
+        self.salary_from = salary_from
+        self.salary_to = salary_to
+        self.currency = currency
+        self.currency_value = currency_value
 
     def __str__(self):
         if not self.salary_from and not self.salary_to:
@@ -197,7 +175,8 @@ class Vacancy:
 Зарплата: { salary }
 Ссылка: { self.url }
         """
-    def __ge__(self, other):
+
+    def sorted_by_salary(self, other):
         self.vacanсies = []
         for self.salary_from in self.formatted_vacancies:
             if self.salary_from >= other.salary_from:
@@ -205,20 +184,21 @@ class Vacancy:
         return self.vacanсies
 
     # def __le__(self, other):
-    #     return self.salary_from >= other.salary_from
+     #    return self.salary_from >= other.salary_from
 class Connector:
 
     def __init__(self, keyword):
         self.filename = f"{ keyword.title() }.json"
-        #self.insert(vacancies_json)
 
     def insert(self, vacancies_json):
+        self.vacancies_json = vacancies_json
         """Записывает информацию в файл"""
 
         with open(self.filename, "w", encoding="utf-8") as file:
-            json.dump(vacancies_json, file, indent=4, ensure_ascii=False)
+            json.dump(self.vacancies_json, file, indent=4, ensure_ascii=False)
 
-    def select(self):
+    def select(self, vacancies_json):
+        self.vacancies_json = vacancies_json
         """Открывает для чтения информацию из файла"""
 
         with open(self.filename, "r", encoding="utf-8") as file:
