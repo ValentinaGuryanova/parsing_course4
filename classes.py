@@ -156,11 +156,16 @@ class Vacancy:
 Ссылка: {self.url}
         """
 
+    def __ge__(self, other):
+        return self.salary_from >= other.salary_from
+
+    def __lt__(self, other):
+        return self.salary_from < other.salary_from
+
 
 class Connector:
 
     def __init__(self, keyword):
-        self.salary_from = None
         self.filename = f"{keyword.title()}.json"
 
     def insert(self, vacancies_json):
@@ -178,23 +183,16 @@ class Connector:
             vacancies = json.load(file)
         return [Vacancy(**x) for x in vacancies]
     
-    # def __ge__(self, other):
-    #     self.vacancies = []
-    #     for self.salary_from in self.vacancies:
-    #         if self.salary_from >= other.salary_from:
-    #             self.vacancies.extend(self.salary_from)
-    #     return self.vacancies
 
     def sorted_by_salary(self):
         self.vacancies = []
 
-        with open("Python.json", "rt", encoding="utf-8") as file:
-            text = file.read()
-            for i in text:
-                self.vacancies.append(json.loads(i))
-        for i in self.vacancies:
-            if i["salary"] == "Зарплата скрыта работодателем":
-                i["salary"] = 0
+        with open("Python.json", "r", encoding="utf-8") as file:
+            vacancies = json.load(file)
+        self.vacancies = [Vacancy(**x) for x in vacancies]
+        for i in vacancies:
+            if i["salary_from"] == "Не указана":
+                i["salary_from"] = 0
         self.vacancies = sorted(self.vacancies)
         for i in range(len(self.vacancies)):
             print(f"{self.vacancies[i]['name']}, Зарплата: {self.vacancies[i]['salary']},")

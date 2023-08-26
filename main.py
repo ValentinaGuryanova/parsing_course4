@@ -34,7 +34,7 @@ def main():
         elif command == "1":
             vacancies = connector.select("Python")
         elif command == "2":
-            vacancies = connector.sorted_by_salary
+            vacancies = connector.sorted_by_salary()
         for vacancy in vacancies:
             print(vacancy, end="\n")
 
