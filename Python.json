@@ -1,1 +1,3202 @@
-[]
+[
+    {
+        "employer": "84241995",
+        "title": "Стажер BI аналитик",
+        "url": "https://api.hh.ru/vacancies/84241995?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85628220",
+        "title": "Web-программист - стажер",
+        "url": "https://api.hh.ru/vacancies/85628220?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85730125",
+        "title": "Python Software Engineer",
+        "url": "https://api.hh.ru/vacancies/85730125?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85756243",
+        "title": "Программист (Джуниор)",
+        "url": "https://api.hh.ru/vacancies/85756243?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 35000,
+        "salary_to": 60000
+    },
+    {
+        "employer": "85692736",
+        "title": "Junior frontend developer / html верстальщик",
+        "url": "https://api.hh.ru/vacancies/85692736?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85669926",
+        "title": "Java-разработчик (Junior)",
+        "url": "https://api.hh.ru/vacancies/85669926?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 150000,
+        "salary_to": null
+    },
+    {
+        "employer": "85728167",
+        "title": "Junior Backend Developer",
+        "url": "https://api.hh.ru/vacancies/85728167?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": null
+    },
+    {
+        "employer": "85423457",
+        "title": "C++ developer (Telecom)",
+        "url": "https://api.hh.ru/vacancies/85423457?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85704186",
+        "title": "Руководитель отдела финансового моделирования и анализа",
+        "url": "https://api.hh.ru/vacancies/85704186?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 450000,
+        "salary_to": null
+    },
+    {
+        "employer": "85763505",
+        "title": "Младший Frontend разработчик",
+        "url": "https://api.hh.ru/vacancies/85763505?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85432436",
+        "title": "Data-аналитик",
+        "url": "https://api.hh.ru/vacancies/85432436?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 800000,
+        "salary_to": 1150000
+    },
+    {
+        "employer": "84630964",
+        "title": "Разработчик Python (junior)",
+        "url": "https://api.hh.ru/vacancies/84630964?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 80000
+    },
+    {
+        "employer": "84724739",
+        "title": "Python Trainee",
+        "url": "https://api.hh.ru/vacancies/84724739?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 20000
+    },
+    {
+        "employer": "85750801",
+        "title": "Программист-разработчик",
+        "url": "https://api.hh.ru/vacancies/85750801?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 25000,
+        "salary_to": 100000
+    },
+    {
+        "employer": "85784343",
+        "title": "Python backend разработчик, удалённо",
+        "url": "https://api.hh.ru/vacancies/85784343?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 250000
+    },
+    {
+        "employer": "85676797",
+        "title": "Junior Data Engineer",
+        "url": "https://api.hh.ru/vacancies/85676797?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85690084",
+        "title": "AI-разработчик junior (удаленно)",
+        "url": "https://api.hh.ru/vacancies/85690084?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85466877",
+        "title": "Стажер в IT компанию",
+        "url": "https://api.hh.ru/vacancies/85466877?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": 80000
+    },
+    {
+        "employer": "85778361",
+        "title": "Python Backend Developer",
+        "url": "https://api.hh.ru/vacancies/85778361?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 110000,
+        "salary_to": null
+    },
+    {
+        "employer": "85671476",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/85671476?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 25000,
+        "salary_to": 60000
+    },
+    {
+        "employer": "85679691",
+        "title": "Python разработчик",
+        "url": "https://api.hh.ru/vacancies/85679691?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85706756",
+        "title": "Программист БПЛА",
+        "url": "https://api.hh.ru/vacancies/85706756?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": null
+    },
+    {
+        "employer": "84826929",
+        "title": "Стажер-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/84826929?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "83664059",
+        "title": "Junior программист/разработчик Frontend backend/Junior разработчик",
+        "url": "https://api.hh.ru/vacancies/83664059?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 75000,
+        "salary_to": 90000
+    },
+    {
+        "employer": "85738029",
+        "title": "Ведущий администратор вычислительной сети",
+        "url": "https://api.hh.ru/vacancies/85738029?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 95000,
+        "salary_to": null
+    },
+    {
+        "employer": "85725879",
+        "title": "Backend разработчик (Python)",
+        "url": "https://api.hh.ru/vacancies/85725879?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85262657",
+        "title": "Python (Junior) разработчик",
+        "url": "https://api.hh.ru/vacancies/85262657?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85713860",
+        "title": "IOS разработчик",
+        "url": "https://api.hh.ru/vacancies/85713860?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85085309",
+        "title": "Junior Machine Learning Engineer",
+        "url": "https://api.hh.ru/vacancies/85085309?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 150000
+    },
+    {
+        "employer": "85252162",
+        "title": "Pyth‎on-разработчик",
+        "url": "https://api.hh.ru/vacancies/85252162?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 40000
+    },
+    {
+        "employer": "85741913",
+        "title": "Младший аналитик",
+        "url": "https://api.hh.ru/vacancies/85741913?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": 40000
+    },
+    {
+        "employer": "84695887",
+        "title": "Стажер/Программист",
+        "url": "https://api.hh.ru/vacancies/84695887?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 15000,
+        "salary_to": 20000
+    },
+    {
+        "employer": "85198755",
+        "title": "Начинающий WEB-разработчик",
+        "url": "https://api.hh.ru/vacancies/85198755?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 35000,
+        "salary_to": 50000
+    },
+    {
+        "employer": "85696522",
+        "title": "Аналитик со знанием Python",
+        "url": "https://api.hh.ru/vacancies/85696522?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84841138",
+        "title": "Исследователь данных, удаленно",
+        "url": "https://api.hh.ru/vacancies/84841138?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 190000,
+        "salary_to": null
+    },
+    {
+        "employer": "85694424",
+        "title": "Менеджер проектов/Project Manager",
+        "url": "https://api.hh.ru/vacancies/85694424?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85668376",
+        "title": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/85668376?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 3000
+    },
+    {
+        "employer": "85331206",
+        "title": "Программист/разработчик Python",
+        "url": "https://api.hh.ru/vacancies/85331206?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 1500,
+        "salary_to": null
+    },
+    {
+        "employer": "85451467",
+        "title": "Тестировщик ПО web",
+        "url": "https://api.hh.ru/vacancies/85451467?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85702239",
+        "title": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/85702239?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 45000,
+        "salary_to": null
+    },
+    {
+        "employer": "85750925",
+        "title": "Тестировщик",
+        "url": "https://api.hh.ru/vacancies/85750925?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 90000,
+        "salary_to": 180000
+    },
+    {
+        "employer": "85779717",
+        "title": "Junior data analyst",
+        "url": "https://api.hh.ru/vacancies/85779717?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85573649",
+        "title": "Junior разработчик Python",
+        "url": "https://api.hh.ru/vacancies/85573649?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84973033",
+        "title": "Python Backend Разработчик",
+        "url": "https://api.hh.ru/vacancies/84973033?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 400000,
+        "salary_to": 600000
+    },
+    {
+        "employer": "84635517",
+        "title": "Бэкенд-разработчик Backend Django",
+        "url": "https://api.hh.ru/vacancies/84635517?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85286523",
+        "title": "Младший аналитик (IT)",
+        "url": "https://api.hh.ru/vacancies/85286523?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 140000
+    },
+    {
+        "employer": "84907338",
+        "title": "Junior Game Analyst (удаленно)",
+        "url": "https://api.hh.ru/vacancies/84907338?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84509350",
+        "title": "Python developer",
+        "url": "https://api.hh.ru/vacancies/84509350?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85194501",
+        "title": "Junior Python разработчик",
+        "url": "https://api.hh.ru/vacancies/85194501?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85672731",
+        "title": "Стажер-разработчик (Воронеж)",
+        "url": "https://api.hh.ru/vacancies/85672731?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84558768",
+        "title": "Junior Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/84558768?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 110000,
+        "salary_to": 140000
+    },
+    {
+        "employer": "85454022",
+        "title": "Стажер в отдел аналитических исследований",
+        "url": "https://api.hh.ru/vacancies/85454022?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85425438",
+        "title": "Backend Developer junior (Python/Go)",
+        "url": "https://api.hh.ru/vacancies/85425438?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84174299",
+        "title": "Стажёр – тестировщик",
+        "url": "https://api.hh.ru/vacancies/84174299?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": null
+    },
+    {
+        "employer": "85691565",
+        "title": "Стажер в риски",
+        "url": "https://api.hh.ru/vacancies/85691565?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85741213",
+        "title": "Программист Python/Data Scientist (junior / middle)",
+        "url": "https://api.hh.ru/vacancies/85741213?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 70000,
+        "salary_to": 150000
+    },
+    {
+        "employer": "85268879",
+        "title": "Программист Python (Junior +)",
+        "url": "https://api.hh.ru/vacancies/85268879?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 200000
+    },
+    {
+        "employer": "85768651",
+        "title": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/85768651?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "83359992",
+        "title": "DevOps-специалист",
+        "url": "https://api.hh.ru/vacancies/83359992?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 200000,
+        "salary_to": 350000
+    },
+    {
+        "employer": "85726212",
+        "title": "Python разработчик / Разработчик чат-ботов в телеграм",
+        "url": "https://api.hh.ru/vacancies/85726212?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85451321",
+        "title": "HTML-верстальщик / WEB-разработчик",
+        "url": "https://api.hh.ru/vacancies/85451321?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": 100000
+    },
+    {
+        "employer": "85659559",
+        "title": "QA Engineer (Junior+ / Middle)",
+        "url": "https://api.hh.ru/vacancies/85659559?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null
+    },
+    {
+        "employer": "85719746",
+        "title": "Python разработчик",
+        "url": "https://api.hh.ru/vacancies/85719746?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85642286",
+        "title": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/85642286?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85733336",
+        "title": "CTO / Chief Technology Officer",
+        "url": "https://api.hh.ru/vacancies/85733336?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 10000,
+        "salary_to": 15000
+    },
+    {
+        "employer": "85363337",
+        "title": "Инженер-программист junior",
+        "url": "https://api.hh.ru/vacancies/85363337?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 110000,
+        "salary_to": null
+    },
+    {
+        "employer": "85632103",
+        "title": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/85632103?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 300000,
+        "salary_to": null
+    },
+    {
+        "employer": "85562166",
+        "title": "Python разработчик (разработчик логики)",
+        "url": "https://api.hh.ru/vacancies/85562166?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85772397",
+        "title": "Стажер Odoo developer",
+        "url": "https://api.hh.ru/vacancies/85772397?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85726481",
+        "title": "Python / Django Developer",
+        "url": "https://api.hh.ru/vacancies/85726481?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 130000
+    },
+    {
+        "employer": "85671301",
+        "title": "Web-программист Python+Django (удаленно)",
+        "url": "https://api.hh.ru/vacancies/85671301?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 90000,
+        "salary_to": 120000
+    },
+    {
+        "employer": "85665175",
+        "title": "Технический Директор (Chief Technical Officer)",
+        "url": "https://api.hh.ru/vacancies/85665175?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 400000,
+        "salary_to": 700000
+    },
+    {
+        "employer": "85231521",
+        "title": "Middle Product Analyst",
+        "url": "https://api.hh.ru/vacancies/85231521?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84434453",
+        "title": "Аналитик / помощник аналитика (можно удаленно)",
+        "url": "https://api.hh.ru/vacancies/84434453?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": 70000
+    },
+    {
+        "employer": "85663511",
+        "title": "Системный администратор Linux/DevOps",
+        "url": "https://api.hh.ru/vacancies/85663511?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "83352971",
+        "title": "Разработчик БПЛА",
+        "url": "https://api.hh.ru/vacancies/83352971?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 200000,
+        "salary_to": 230000
+    },
+    {
+        "employer": "85759408",
+        "title": "Data scientist / ML",
+        "url": "https://api.hh.ru/vacancies/85759408?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85308126",
+        "title": "Backend разработчик (Python)",
+        "url": "https://api.hh.ru/vacancies/85308126?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85687846",
+        "title": "Разработчик Python",
+        "url": "https://api.hh.ru/vacancies/85687846?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85712908",
+        "title": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/85712908?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": null
+    },
+    {
+        "employer": "85233770",
+        "title": "Младший программист Python",
+        "url": "https://api.hh.ru/vacancies/85233770?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85687845",
+        "title": "Разработчик Python",
+        "url": "https://api.hh.ru/vacancies/85687845?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85579499",
+        "title": "DevOPS engineer (SRE)",
+        "url": "https://api.hh.ru/vacancies/85579499?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 8000,
+        "salary_to": null
+    },
+    {
+        "employer": "84951547",
+        "title": "Javascript Developer (React)",
+        "url": "https://api.hh.ru/vacancies/84951547?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85687844",
+        "title": "Разработчик Python",
+        "url": "https://api.hh.ru/vacancies/85687844?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84604253",
+        "title": "Junior Data инженер",
+        "url": "https://api.hh.ru/vacancies/84604253?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 150000,
+        "salary_to": null
+    },
+    {
+        "employer": "85730633",
+        "title": "Младший аналитик",
+        "url": "https://api.hh.ru/vacancies/85730633?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": 70000
+    },
+    {
+        "employer": "85245554",
+        "title": "Backend developer (python)",
+        "url": "https://api.hh.ru/vacancies/85245554?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 230000
+    },
+    {
+        "employer": "85770964",
+        "title": "Программист",
+        "url": "https://api.hh.ru/vacancies/85770964?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 90000,
+        "salary_to": null
+    },
+    {
+        "employer": "85270006",
+        "title": "Разработчик/junior (офис)",
+        "url": "https://api.hh.ru/vacancies/85270006?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85613053",
+        "title": "QA/AQA Engineer",
+        "url": "https://api.hh.ru/vacancies/85613053?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 800
+    },
+    {
+        "employer": "83406279",
+        "title": "Middle golang разработчик",
+        "url": "https://api.hh.ru/vacancies/83406279?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 150000,
+        "salary_to": 300000
+    },
+    {
+        "employer": "85394709",
+        "title": "Программист-разработчик",
+        "url": "https://api.hh.ru/vacancies/85394709?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 150000,
+        "salary_to": 350000
+    },
+    {
+        "employer": "85639606",
+        "title": "Data analyst (Power BI + Python)",
+        "url": "https://api.hh.ru/vacancies/85639606?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85718778",
+        "title": "Младший системный администратор (Стажер DevOps)",
+        "url": "https://api.hh.ru/vacancies/85718778?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": null
+    },
+    {
+        "employer": "85712907",
+        "title": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/85712907?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": null
+    },
+    {
+        "employer": "83461035",
+        "title": "Machine Learning Engineer",
+        "url": "https://api.hh.ru/vacancies/83461035?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 250000,
+        "salary_to": 400000
+    },
+    {
+        "employer": "85767016",
+        "title": "Тестировщик ПО",
+        "url": "https://api.hh.ru/vacancies/85767016?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 63000,
+        "salary_to": 80000
+    },
+    {
+        "employer": "84350333",
+        "title": "Junior Python разработчик",
+        "url": "https://api.hh.ru/vacancies/84350333?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": null
+    },
+    {
+        "employer": "84429480",
+        "title": "Мануальный QA Инженер",
+        "url": "https://api.hh.ru/vacancies/84429480?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "83559448",
+        "title": "Разработчик - стажер Power BI",
+        "url": "https://api.hh.ru/vacancies/83559448?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84347100",
+        "title": "Разработчик Python (Junior)",
+        "url": "https://api.hh.ru/vacancies/84347100?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 90000
+    },
+    {
+        "employer": "85207298",
+        "title": "Аналитик данных (удаленно, junior/middle)",
+        "url": "https://api.hh.ru/vacancies/85207298?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 130000
+    },
+    {
+        "employer": "84429015",
+        "title": "Python разработчик",
+        "url": "https://api.hh.ru/vacancies/84429015?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "83811980",
+        "title": "Стажер-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/83811980?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85468904",
+        "title": "Python Developer",
+        "url": "https://api.hh.ru/vacancies/85468904?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 90000,
+        "salary_to": 150000
+    },
+    {
+        "employer": "85723132",
+        "title": "QA тестировщик",
+        "url": "https://api.hh.ru/vacancies/85723132?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84062871",
+        "title": "Стажер Python developer (СКИИС)",
+        "url": "https://api.hh.ru/vacancies/84062871?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85410367",
+        "title": "Cтажёр-разработчик автоматизированных тестов",
+        "url": "https://api.hh.ru/vacancies/85410367?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84282045",
+        "title": "Стажер-программист Python",
+        "url": "https://api.hh.ru/vacancies/84282045?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 20000
+    },
+    {
+        "employer": "85302111",
+        "title": "Python developer",
+        "url": "https://api.hh.ru/vacancies/85302111?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85630565",
+        "title": "Системный администратор",
+        "url": "https://api.hh.ru/vacancies/85630565?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 45000,
+        "salary_to": 80000
+    },
+    {
+        "employer": "84287412",
+        "title": "Программист Python (Junior) Волгоград",
+        "url": "https://api.hh.ru/vacancies/84287412?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": null
+    },
+    {
+        "employer": "85561909",
+        "title": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/85561909?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85598798",
+        "title": "QA инженер (ручное тестирование)",
+        "url": "https://api.hh.ru/vacancies/85598798?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84367719",
+        "title": "Младший разработчик Python (Junior Python Developer)",
+        "url": "https://api.hh.ru/vacancies/84367719?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85627255",
+        "title": "Ночной Инженер DevOps",
+        "url": "https://api.hh.ru/vacancies/85627255?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 306000
+    },
+    {
+        "employer": "84201801",
+        "title": "Разработчик python",
+        "url": "https://api.hh.ru/vacancies/84201801?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 2500,
+        "salary_to": null
+    },
+    {
+        "employer": "85425685",
+        "title": "Backend разработчик (Python) в офис",
+        "url": "https://api.hh.ru/vacancies/85425685?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": null
+    },
+    {
+        "employer": "84939884",
+        "title": "Стажер-разработчик",
+        "url": "https://api.hh.ru/vacancies/84939884?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84467721",
+        "title": "Junior Golang developer",
+        "url": "https://api.hh.ru/vacancies/84467721?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": 135000
+    },
+    {
+        "employer": "85438140",
+        "title": "Тестировщик программного обеспечения (Junior)",
+        "url": "https://api.hh.ru/vacancies/85438140?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85698215",
+        "title": "Инженер по тестированию",
+        "url": "https://api.hh.ru/vacancies/85698215?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85764986",
+        "title": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/85764986?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": null
+    },
+    {
+        "employer": "85730431",
+        "title": "Разработчик БПЛА",
+        "url": "https://api.hh.ru/vacancies/85730431?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 160000,
+        "salary_to": 190000
+    },
+    {
+        "employer": "84909163",
+        "title": "Младший аналитик данных (junior data analyst)",
+        "url": "https://api.hh.ru/vacancies/84909163?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": 70000
+    },
+    {
+        "employer": "84941174",
+        "title": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/84941174?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null
+    },
+    {
+        "employer": "85602171",
+        "title": "Backend разработчик (Python)",
+        "url": "https://api.hh.ru/vacancies/85602171?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 150000,
+        "salary_to": 250000
+    },
+    {
+        "employer": "85452996",
+        "title": "Тестировщик/QA (Creatio)",
+        "url": "https://api.hh.ru/vacancies/85452996?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85188109",
+        "title": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/85188109?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null
+    },
+    {
+        "employer": "85467569",
+        "title": "Python backend разработчик",
+        "url": "https://api.hh.ru/vacancies/85467569?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 200000,
+        "salary_to": null
+    },
+    {
+        "employer": "85418435",
+        "title": "Backend-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/85418435?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 150000
+    },
+    {
+        "employer": "85725109",
+        "title": "Game Data Analyst",
+        "url": "https://api.hh.ru/vacancies/85725109?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85076955",
+        "title": "Аналитик",
+        "url": "https://api.hh.ru/vacancies/85076955?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": 100000
+    },
+    {
+        "employer": "85549797",
+        "title": "QA тестировщик (удаленно)",
+        "url": "https://api.hh.ru/vacancies/85549797?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84159478",
+        "title": "Программист-разработчик",
+        "url": "https://api.hh.ru/vacancies/84159478?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85303817",
+        "title": "Python developer",
+        "url": "https://api.hh.ru/vacancies/85303817?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84853609",
+        "title": "Junior Python Developer",
+        "url": "https://api.hh.ru/vacancies/84853609?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85715442",
+        "title": "Программист JavaScript",
+        "url": "https://api.hh.ru/vacancies/85715442?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84546218",
+        "title": "Python разработчик",
+        "url": "https://api.hh.ru/vacancies/84546218?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 200000
+    },
+    {
+        "employer": "84190497",
+        "title": "Backend-разработчик (Python)",
+        "url": "https://api.hh.ru/vacancies/84190497?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 70000,
+        "salary_to": null
+    },
+    {
+        "employer": "85106833",
+        "title": "Продуктовый аналитик",
+        "url": "https://api.hh.ru/vacancies/85106833?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85139976",
+        "title": "Архитектор баз данных / Программист SQL",
+        "url": "https://api.hh.ru/vacancies/85139976?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85233905",
+        "title": "Тестировщик",
+        "url": "https://api.hh.ru/vacancies/85233905?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85746230",
+        "title": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/85746230?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84744297",
+        "title": "Junior Web-analyst",
+        "url": "https://api.hh.ru/vacancies/84744297?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85327381",
+        "title": "Разработчик машинного обучения (Data Scientist / Machine Learning Engineer)",
+        "url": "https://api.hh.ru/vacancies/85327381?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": 250000
+    },
+    {
+        "employer": "84960294",
+        "title": "Python бэкенд-разработчик",
+        "url": "https://api.hh.ru/vacancies/84960294?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": 160000
+    },
+    {
+        "employer": "85432842",
+        "title": "Стажер Продуктовый аналитик (GOGYM)",
+        "url": "https://api.hh.ru/vacancies/85432842?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "85704469",
+        "title": "Программист Backend junior+, middle",
+        "url": "https://api.hh.ru/vacancies/85704469?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": null
+    },
+    {
+        "employer": "85060732",
+        "title": "Программист Python backend",
+        "url": "https://api.hh.ru/vacancies/85060732?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "83524185",
+        "title": "Аналитик баз данных (Python/SQL)",
+        "url": "https://api.hh.ru/vacancies/83524185?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": null
+    },
+    {
+        "employer": "85249108",
+        "title": "Python-разработчик (junior +)",
+        "url": "https://api.hh.ru/vacancies/85249108?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84278383",
+        "title": "Junior Программист/Разработчик Python",
+        "url": "https://api.hh.ru/vacancies/84278383?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 60000,
+        "salary_to": null
+    },
+    {
+        "employer": "85201220",
+        "title": "Младший аналитик (Python)",
+        "url": "https://api.hh.ru/vacancies/85201220?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84732370",
+        "title": "Стажер-программист в отдел технической поддержки",
+        "url": "https://api.hh.ru/vacancies/84732370?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null
+    },
+    {
+        "employer": "85331608",
+        "title": "BI Аналитик",
+        "url": "https://api.hh.ru/vacancies/85331608?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 120000,
+        "salary_to": 150000
+    },
+    {
+        "employer": "85673981",
+        "title": "Программист",
+        "url": "https://api.hh.ru/vacancies/85673981?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": null
+    },
+    {
+        "employer": "85618652",
+        "title": "Специалист по тестированию",
+        "url": "https://api.hh.ru/vacancies/85618652?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85426962",
+        "title": "Помощник системного администратора / Начинающий специалист",
+        "url": "https://api.hh.ru/vacancies/85426962?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 55000,
+        "salary_to": null
+    },
+    {
+        "employer": "84566813",
+        "title": "Senior Python Developer (ecom)",
+        "url": "https://api.hh.ru/vacancies/84566813?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85655651",
+        "title": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/85655651?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 150000,
+        "salary_to": null
+    },
+    {
+        "employer": "85557199",
+        "title": "Front-end разработчик (React)",
+        "url": "https://api.hh.ru/vacancies/85557199?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85559687",
+        "title": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/85559687?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85706890",
+        "title": "Data analyst",
+        "url": "https://api.hh.ru/vacancies/85706890?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85475258",
+        "title": "Директор по R&D",
+        "url": "https://api.hh.ru/vacancies/85475258?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 300000,
+        "salary_to": 400000
+    },
+    {
+        "employer": "85751665",
+        "title": "Инженер по тестированию ПО",
+        "url": "https://api.hh.ru/vacancies/85751665?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84746410",
+        "title": "Data Analyst",
+        "url": "https://api.hh.ru/vacancies/84746410?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null
+    },
+    {
+        "employer": "85768189",
+        "title": "Программист Python в офис",
+        "url": "https://api.hh.ru/vacancies/85768189?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": null
+    },
+    {
+        "employer": "84724735",
+        "title": "Стажер-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/84724735?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85779284",
+        "title": "Data Analyst",
+        "url": "https://api.hh.ru/vacancies/85779284?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "80736556",
+        "title": "Разработчик Python",
+        "url": "https://api.hh.ru/vacancies/80736556?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": 80000
+    },
+    {
+        "employer": "83702892",
+        "title": "Тестировщик",
+        "url": "https://api.hh.ru/vacancies/83702892?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 309000
+    },
+    {
+        "employer": "85259044",
+        "title": "Back End Специалист",
+        "url": "https://api.hh.ru/vacancies/85259044?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 1000000,
+        "salary_to": 5000000
+    },
+    {
+        "employer": "85556219",
+        "title": "Специалист отдела IT",
+        "url": "https://api.hh.ru/vacancies/85556219?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 250000,
+        "salary_to": 500000
+    },
+    {
+        "employer": "85594712",
+        "title": "Backend - Разработчик (Python / Go)",
+        "url": "https://api.hh.ru/vacancies/85594712?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": 80000
+    },
+    {
+        "employer": "85698618",
+        "title": "Machine Learning инженер",
+        "url": "https://api.hh.ru/vacancies/85698618?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85778977",
+        "title": "Специалист технической поддержки",
+        "url": "https://api.hh.ru/vacancies/85778977?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 300000,
+        "salary_to": 500000
+    },
+    {
+        "employer": "85163208",
+        "title": "Младший бизнес-аналитик / Business Analyst Junior",
+        "url": "https://api.hh.ru/vacancies/85163208?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": 54000
+    },
+    {
+        "employer": "84453058",
+        "title": "Начинающий системный администратор (стажер)",
+        "url": "https://api.hh.ru/vacancies/84453058?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 50000,
+        "salary_to": 70000
+    },
+    {
+        "employer": "85774736",
+        "title": "Инженер по тестированию / QA инженер",
+        "url": "https://api.hh.ru/vacancies/85774736?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 100000,
+        "salary_to": null
+    },
+    {
+        "employer": "84156606",
+        "title": "Аналитик",
+        "url": "https://api.hh.ru/vacancies/84156606?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 58000,
+        "salary_to": 73000
+    },
+    {
+        "employer": "85590733",
+        "title": "Python Developer",
+        "url": "https://api.hh.ru/vacancies/85590733?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "82509167",
+        "title": "Начинающий Веб программист (Junior Web-разработчик)",
+        "url": "https://api.hh.ru/vacancies/82509167?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 25000,
+        "salary_to": 70000
+    },
+    {
+        "employer": "85570583",
+        "title": "Тестировщик",
+        "url": "https://api.hh.ru/vacancies/85570583?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85708164",
+        "title": "Frontend-разработчик / Fullstack-разработчик",
+        "url": "https://api.hh.ru/vacancies/85708164?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 30000,
+        "salary_to": null
+    },
+    {
+        "employer": "84160812",
+        "title": "QA Engineer",
+        "url": "https://api.hh.ru/vacancies/84160812?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 40000,
+        "salary_to": 80000
+    },
+    {
+        "employer": "85588217",
+        "title": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/85588217?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85770482",
+        "title": "Программист С++ GUI",
+        "url": "https://api.hh.ru/vacancies/85770482?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 80000,
+        "salary_to": null
+    },
+    {
+        "employer": "85697327",
+        "title": "Младший аналитик музыкального лейбла",
+        "url": "https://api.hh.ru/vacancies/85697327?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84761227",
+        "title": "Junior Analyst (Supply Team)",
+        "url": "https://api.hh.ru/vacancies/84761227?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85746404",
+        "title": "Начальник экспериментального отдела",
+        "url": "https://api.hh.ru/vacancies/85746404?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 170000,
+        "salary_to": null
+    },
+    {
+        "employer": "85612078",
+        "title": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/85612078?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 250000,
+        "salary_to": 400000
+    },
+    {
+        "employer": "84468495",
+        "title": "Стажер-аналитик",
+        "url": "https://api.hh.ru/vacancies/84468495?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85272221",
+        "title": "Web-разработчик Full Stack",
+        "url": "https://api.hh.ru/vacancies/85272221?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 500000,
+        "salary_to": null
+    },
+    {
+        "employer": "85105445",
+        "title": "Программист-разработчик",
+        "url": "https://api.hh.ru/vacancies/85105445?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 500000,
+        "salary_to": null
+    },
+    {
+        "employer": "85699036",
+        "title": "IOS разработчик",
+        "url": "https://api.hh.ru/vacancies/85699036?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "85772189",
+        "title": "Сетевой инженер (удаленно)",
+        "url": "https://api.hh.ru/vacancies/85772189?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "84327658",
+        "title": "IT QA (Тестировщик) для международных проектов",
+        "url": "https://api.hh.ru/vacancies/84327658?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": 500,
+        "salary_to": 1800
+    },
+    {
+        "employer": "84637824",
+        "title": "Инженер по тестированию",
+        "url": "https://api.hh.ru/vacancies/84637824?host=hh.ru",
+        "api": "HeadHunter",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://himki.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820057.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://cheboksary.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820058.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://chita.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820062.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://shahty.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820063.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://schelkovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820064.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://elektrostal.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820065.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://elista.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820066.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://engels.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820067.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://yuzhno-sakhalinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820068.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://yaroslavl.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820070.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://www.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820071.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Банк ВТБ (ПАО)",
+        "title": "Аналитик данных / Data Analyst (Стрим Сквозные бизнес-компоненты)",
+        "url": "https://www.superjob.ru/vakansii/analitik-dannyh-46785187.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ФГБУ \"НМИЦ онкологии им. Н. Н. Петрова\" Минздрава России",
+        "title": "Full stack python developer",
+        "url": "https://spb.superjob.ru/vakansii/full-stack-python-developer-46891033.html",
+        "api": "SuperJob",
+        "salary_from": 200000,
+        "salary_to": null
+    },
+    {
+        "employer": "Кировтелеком",
+        "title": "Сетевой инженер",
+        "url": "https://spb.superjob.ru/vakansii/setevoj-inzhener-46941423.html",
+        "api": "SuperJob",
+        "salary_from": 70000,
+        "salary_to": 100000
+    },
+    {
+        "employer": "Банк Открытие",
+        "title": "Руководитель направления в Центр резервирования и планирования",
+        "url": "https://www.superjob.ru/vakansii/rukovoditel-napravleniya-v-centr-rezervirovaniya-i-planirovaniya-47009395.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Банк ВТБ (ПАО)",
+        "title": "Бизнес-аналитик (Управление ВТБ PRO)",
+        "url": "https://www.superjob.ru/vakansii/biznes-analitik-47127997.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Государственное автономное профессиональное образовательное учреждение \" Волгоградский социально-педагогический колледж\" (ГАПОУ \"ВСПК\")",
+        "title": "Преподаватель программирования, веб-разработки",
+        "url": "https://volgograd.superjob.ru/vakansii/prepodavatel-programmirovaniya-38561557.html",
+        "api": "SuperJob",
+        "salary_from": 35000,
+        "salary_to": null
+    },
+    {
+        "employer": "ФГБОУ ВО МГППУ",
+        "title": "Старший научный сотрудник",
+        "url": "https://www.superjob.ru/vakansii/starshij-nauchnyj-sotrudnik-41239513.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "КуулКлевер (МясновЪ, Отдохни)",
+        "title": "DevOps Team Lead",
+        "url": "https://nn.superjob.ru/vakansii/devops-team-lead-42890350.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "МБОУ СОШ № 95",
+        "title": "Учитель информатики",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/uchitel-informatiki-43496219.html",
+        "api": "SuperJob",
+        "salary_from": 35000,
+        "salary_to": 70000
+    },
+    {
+        "employer": "МБУ ДО \"Центр детского (юношеского) технического творчества \"Меридиан\"",
+        "title": "Программист-педагог",
+        "url": "https://novokuznetsk.superjob.ru/vakansii/programmist-pedagog-43502923.html",
+        "api": "SuperJob",
+        "salary_from": 20000,
+        "salary_to": 40000
+    },
+    {
+        "employer": "Департамент городского хозяйства",
+        "title": "Программист",
+        "url": "https://kolomna.superjob.ru/vakansii/programmist-45594068.html",
+        "api": "SuperJob",
+        "salary_from": 60000,
+        "salary_to": null
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://andreevka.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698480.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://zelenograd.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698481.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698482.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698483.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698484.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698485.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698486.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://solnechnogorsk.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698487.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://himki.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698488.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Школа программирования",
+        "title": "Учитель по программированию",
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698489.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 60000
+    },
+    {
+        "employer": "Альпинтех",
+        "title": "Аналитик",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/analitik-45733204.html",
+        "api": "SuperJob",
+        "salary_from": 150000,
+        "salary_to": null
+    },
+    {
+        "employer": "Альпинтех",
+        "title": "Аналитик",
+        "url": "https://dubna.superjob.ru/vakansii/analitik-45733205.html",
+        "api": "SuperJob",
+        "salary_from": 150000,
+        "salary_to": null
+    },
+    {
+        "employer": "Альпинтех",
+        "title": "Аналитик",
+        "url": "https://dmitrov.superjob.ru/vakansii/analitik-45733206.html",
+        "api": "SuperJob",
+        "salary_from": 150000,
+        "salary_to": null
+    },
+    {
+        "employer": "Альпинтех",
+        "title": "Аналитик",
+        "url": "https://www.superjob.ru/vakansii/analitik-45812126.html",
+        "api": "SuperJob",
+        "salary_from": 150000,
+        "salary_to": null
+    },
+    {
+        "employer": "Спортмастер",
+        "title": "Data Scientist",
+        "url": "https://www.superjob.ru/vakansii/data-scientist-46185192.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ГБОУ СОШ № 134",
+        "title": "Педагог программирования робототехники",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-programmirovaniya-robototehniki-46234726.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ЦЕНТР ЦИФРОВОГО РАЗВИТИЯ",
+        "title": "Руководитель группы разработки ПО (Техлид)",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/rukovoditel-gruppy-razrabotki-po-46277766.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ЭКО центр",
+        "title": "Системный инженер",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-46296771.html",
+        "api": "SuperJob",
+        "salary_from": 120000,
+        "salary_to": 120000
+    },
+    {
+        "employer": "Спортмастер",
+        "title": "Data Scientist",
+        "url": "https://spb.superjob.ru/vakansii/data-scientist-46185193.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Спортмастер",
+        "title": "Data Scientist",
+        "url": "https://lipetsk.superjob.ru/vakansii/data-scientist-46185194.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Спортмастер",
+        "title": "Data Scientist",
+        "url": "https://krasnodar.superjob.ru/vakansii/data-scientist-46185195.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ГБОУ ШКОЛА № 1579",
+        "title": "Учитель технологии (ИТ направление)",
+        "url": "https://www.superjob.ru/vakansii/uchitel-tehnologii-46505351.html",
+        "api": "SuperJob",
+        "salary_from": 85000,
+        "salary_to": null
+    },
+    {
+        "employer": "Искандарова Гузель Римовна",
+        "title": "Преподаватель по программированию",
+        "url": "https://ufa.superjob.ru/vakansii/prepodavatel-po-programmirovaniyu-46638375.html",
+        "api": "SuperJob",
+        "salary_from": 1000,
+        "salary_to": 1500
+    },
+    {
+        "employer": "Школа № 1530 Школа Ломоносова",
+        "title": "Системный администратор (IT-специалист)",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-46652493.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "К Телеком",
+        "title": "Инженер/Программист микроконтроллеров (стажер)",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/inzhener-46664652.html",
+        "api": "SuperJob",
+        "salary_from": 19500,
+        "salary_to": 24500
+    },
+    {
+        "employer": "Тюменский индустриальный университет",
+        "title": "Доцент / Профессор",
+        "url": "https://tyumen.superjob.ru/vakansii/docent-34389482.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Паритет Консалт",
+        "title": "Тьютор-педагог",
+        "url": "https://tbilisi-ge.superjob.ru/vakansii/tyutor-pedagog-46929061.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "UFirst",
+        "title": "Преподаватель по программированию",
+        "url": "https://www.superjob.ru/vakansii/prepodavatel-po-programmirovaniyu-47006508.html",
+        "api": "SuperJob",
+        "salary_from": 500,
+        "salary_to": null
+    },
+    {
+        "employer": "SuperJob",
+        "title": "Data engineer",
+        "url": "https://www.superjob.ru/vakansii/data-engineer-47011454.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ФГБУК \"Государственный исторический музей\"",
+        "title": "Инженер-программист",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-47019104.html",
+        "api": "SuperJob",
+        "salary_from": 60000,
+        "salary_to": 80000
+    },
+    {
+        "employer": "Власов Андрей Валерьевич",
+        "title": "Стажер-преподаватель (программирование)",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/stazher-prepodavatel-47041712.html",
+        "api": "SuperJob",
+        "salary_from": 30000,
+        "salary_to": 40000
+    },
+    {
+        "employer": "ГБОУ ДО \"СЮТ\"",
+        "title": "Стажер-педагог дополнительного образования",
+        "url": "https://sevastopol.superjob.ru/vakansii/stazher-pedagog-dopolnitelnogo-obrazovaniya-47046459.html",
+        "api": "SuperJob",
+        "salary_from": 28000,
+        "salary_to": 32000
+    },
+    {
+        "employer": "Волжский трубный завод",
+        "title": "Инженер-программист",
+        "url": "https://volzhskiy.superjob.ru/vakansii/inzhener-programmist-47078636.html",
+        "api": "SuperJob",
+        "salary_from": 50000,
+        "salary_to": null
+    },
+    {
+        "employer": "ВЛС",
+        "title": "Системный администратор Linux",
+        "url": "https://vladimir.superjob.ru/vakansii/sistemnyj-administrator-linux-47120439.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 69000
+    },
+    {
+        "employer": "Независимая нефтегазовая компания",
+        "title": "Ведущий инженер АСУ ТП",
+        "url": "https://habarovsk.superjob.ru/vakansii/veduschij-inzhener-asu-tp-47126391.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "КАРКАС",
+        "title": "Junior/Middle разработчик (PHP)",
+        "url": "https://www.superjob.ru/vakansii/junior-47152220.html",
+        "api": "SuperJob",
+        "salary_from": 80000,
+        "salary_to": null
+    },
+    {
+        "employer": "Частный рекрутер Елена Шалимова",
+        "title": "Аналитик в отдел маркетинга",
+        "url": "https://spb.superjob.ru/vakansii/analitik-v-otdel-marketinga-47156361.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": 130000
+    },
+    {
+        "employer": "Бережная Кристина Васильевна",
+        "title": "Системный администратор Linux",
+        "url": "https://magnitogorsk.superjob.ru/vakansii/sistemnyj-administrator-linux-47170061.html",
+        "api": "SuperJob",
+        "salary_from": 50000,
+        "salary_to": null
+    },
+    {
+        "employer": "Группа Полюс",
+        "title": "Старший системный администратор",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/starshij-sistemnyj-administrator-47175353.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Почта России",
+        "title": "Ведущий специалист группы аналитики",
+        "url": "https://samara.superjob.ru/vakansii/veduschij-specialist-gruppy-analitiki-47180114.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ЦЕНТР ИНТЕЛЛЕКТУАЛЬНОГО РАЗВИТИЯ",
+        "title": "Стажер-программист",
+        "url": "https://odintsovo.superjob.ru/vakansii/stazher-programmist-47190721.html",
+        "api": "SuperJob",
+        "salary_from": 20000,
+        "salary_to": null
+    },
+    {
+        "employer": "ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ",
+        "title": "Специалист по обработке данных (здравоохранение)",
+        "url": "https://www.superjob.ru/vakansii/specialist-po-obrabotke-dannyh-47195490.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ",
+        "title": "Специалист по анализу данных (здравоохранение)",
+        "url": "https://www.superjob.ru/vakansii/specialist-po-analizu-dannyh-47195495.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ФГБУ Центр стратегического планирования медико-биологических рисков ФМБА РФ",
+        "title": "Аналитик (в области медицины)",
+        "url": "https://www.superjob.ru/vakansii/analitik-47195499.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ПРОГИТ",
+        "title": "Программист C++/Qt с опытом от 3 лет",
+        "url": "https://spb.superjob.ru/vakansii/programmist-c-47207779.html",
+        "api": "SuperJob",
+        "salary_from": 150000,
+        "salary_to": 200000
+    },
+    {
+        "employer": "Школа № 1568",
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-47217948.html",
+        "api": "SuperJob",
+        "salary_from": 85000,
+        "salary_to": null
+    },
+    {
+        "employer": "Народный доверительный банк",
+        "title": "Программист C#",
+        "url": "https://www.superjob.ru/vakansii/programmist-c-11203007.html",
+        "api": "SuperJob",
+        "salary_from": 120000,
+        "salary_to": 150000
+    },
+    {
+        "employer": "МИ ФНС России по ЦОД N2",
+        "title": "Специалист (работа с отчетностью)",
+        "url": "https://www.superjob.ru/vakansii/specialist-31061879.html",
+        "api": "SuperJob",
+        "salary_from": 35000,
+        "salary_to": null
+    },
+    {
+        "employer": "ГБОУ Школа № 1621 ЦАО города Москвы",
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-32935080.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ГБОУ Школа №2086",
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-34123084.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "SuperJob",
+        "title": "DevOps Engineer",
+        "url": "https://www.superjob.ru/vakansii/devops-engineer-34424249.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ГБОУ \"Лицей №126\" Калининского района Санкт-Петербурга",
+        "title": "Методист по программированию на Python (в центр цифрового образования)",
+        "url": "https://spb.superjob.ru/vakansii/metodist-po-programmirovaniyu-na-python-38140998.html",
+        "api": "SuperJob",
+        "salary_from": 30000,
+        "salary_to": null
+    },
+    {
+        "employer": "Частная общеобразовательная школа на Крестовском острове",
+        "title": "Педагог дополнительного образования по основам программирования",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-po-osnovam-programmirovaniya-31216546.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ГБОУ Школа Измайлово",
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-31371166.html",
+        "api": "SuperJob",
+        "salary_from": 70000,
+        "salary_to": 110000
+    },
+    {
+        "employer": "ГОУ СОШ № 1270",
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-27807302.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ЕвроАвто",
+        "title": "Web-разработчик (backend)",
+        "url": "https://spb.superjob.ru/vakansii/web-razrabotchik-41964533.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": null
+    },
+    {
+        "employer": "Радиофизика",
+        "title": "Инженер-радиоэлектронщик 1 категории",
+        "url": "https://www.superjob.ru/vakansii/inzhener-radioelektronschik-1-kategorii-43148990.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": null
+    },
+    {
+        "employer": "СПб ГБ ПОУ \"Радиотехнический колледж\"",
+        "title": "Преподаватель Информатика и вычислительная техника",
+        "url": "https://spb.superjob.ru/vakansii/prepodavatel-informatika-i-vychislitelnaya-tehnika-43877938.html",
+        "api": "SuperJob",
+        "salary_from": 60000,
+        "salary_to": null
+    },
+    {
+        "employer": "ГБОУ Гимназия № 642 \"Земля и Вселенная\"",
+        "title": "Педагог дополнительного образования технической направленности",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-tehnicheskoj-napravlennosti-45432173.html",
+        "api": "SuperJob",
+        "salary_from": 15279,
+        "salary_to": 40000
+    },
+    {
+        "employer": "ТБ ПРОЕКТ",
+        "title": "Системный администратор",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-45760672.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": 150000
+    },
+    {
+        "employer": "Санкт-Петербургский горный университет",
+        "title": "Ведущий инженер",
+        "url": "https://spb.superjob.ru/vakansii/veduschij-inzhener-46009011.html",
+        "api": "SuperJob",
+        "salary_from": 60000,
+        "salary_to": null
+    },
+    {
+        "employer": "Школа №2116",
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-46296647.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": null
+    },
+    {
+        "employer": "СМ-Клиника",
+        "title": "Ведущий системный администратор",
+        "url": "https://www.superjob.ru/vakansii/veduschij-sistemnyj-administrator-46276186.html",
+        "api": "SuperJob",
+        "salary_from": 160000,
+        "salary_to": 180000
+    },
+    {
+        "employer": "ГБОУ школа №489",
+        "title": "Педагог дополнительного образования",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-46399099.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Школа №217",
+        "title": "Учитель информатики",
+        "url": "https://spb.superjob.ru/vakansii/uchitel-informatiki-46584584.html",
+        "api": "SuperJob",
+        "salary_from": 50000,
+        "salary_to": 70000
+    },
+    {
+        "employer": "Банк ВТБ (ПАО)",
+        "title": "Бизнес-аналитик (Виртуальные ассистенты)",
+        "url": "https://www.superjob.ru/vakansii/biznes-analitik-46784824.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ГБОУ Школа №45 с углубленным изучением математики Приморского района Санкт-Петербурга",
+        "title": "Учитель информатики",
+        "url": "https://spb.superjob.ru/vakansii/uchitel-informatiki-46790086.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "СПб ГБ ПОУ \"Радиотехнический колледж\"",
+        "title": "Преподаватель IT-технологий",
+        "url": "https://spb.superjob.ru/vakansii/prepodavatel-it-tehnologij-46800105.html",
+        "api": "SuperJob",
+        "salary_from": 50000,
+        "salary_to": null
+    },
+    {
+        "employer": "Фактор-ТС",
+        "title": "Программист Linux",
+        "url": "https://www.superjob.ru/vakansii/programmist-linux-45695529.html",
+        "api": "SuperJob",
+        "salary_from": 100000,
+        "salary_to": 500000
+    },
+    {
+        "employer": "Группа компаний МАСКОМ/ООО \"ЦБИ \"МАСКОМ\"",
+        "title": "Главный разработчик",
+        "url": "https://www.superjob.ru/vakansii/glavnyj-razrabotchik-46960844.html",
+        "api": "SuperJob",
+        "salary_from": 200000,
+        "salary_to": null
+    },
+    {
+        "employer": "ООО Норфолк",
+        "title": "Специалист по PowerBI для маркетплейсов",
+        "url": "https://www.superjob.ru/vakansii/specialist-po-powerbi-dlya-marketplejsov-47072735.html",
+        "api": "SuperJob",
+        "salary_from": 60000,
+        "salary_to": null
+    },
+    {
+        "employer": "UCHi.RU",
+        "title": "Преподаватель по программированию",
+        "url": "https://www.superjob.ru/vakansii/prepodavatel-po-programmirovaniyu-47136315.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Банк ВТБ (ПАО)",
+        "title": "Продуктовый web-аналитик (Стрим дебетовые карты и счета)",
+        "url": "https://www.superjob.ru/vakansii/produktovyj-web-analitik-47176559.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "Академия цифровых технологий",
+        "title": "Педагог дополнительного образования (программирование)",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-45716514.html",
+        "api": "SuperJob",
+        "salary_from": 30000,
+        "salary_to": null
+    },
+    {
+        "employer": "JOBCART.RU",
+        "title": "Инженер-оператор БПЛА",
+        "url": "https://www.superjob.ru/vakansii/inzhener-operator-bpla-47013553.html",
+        "api": "SuperJob",
+        "salary_from": 80000,
+        "salary_to": 120000
+    },
+    {
+        "employer": "ГОУ СПО Колледж связи",
+        "title": "Преподаватель спецдисциплин (базы данных)",
+        "url": "https://www.superjob.ru/vakansii/prepodavatel-specdisciplin-47199298.html",
+        "api": "SuperJob",
+        "salary_from": 80000,
+        "salary_to": null
+    },
+    {
+        "employer": "Мегаполис",
+        "title": "Специалист по комплексным системам безопасности",
+        "url": "https://www.superjob.ru/vakansii/specialist-po-kompleksnym-sistemam-bezopasnosti-47224599.html",
+        "api": "SuperJob",
+        "salary_from": null,
+        "salary_to": null
+    },
+    {
+        "employer": "ГБОУ ШКОЛА № 1362",
+        "title": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-47253925.html",
+        "api": "SuperJob",
+        "salary_from": 85000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://zhukovskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819506.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://zelenodolsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819507.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://zlatoust.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819508.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://ivanovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819509.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://izhevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819510.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://irkutsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819511.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://korolev.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819616.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://kostroma.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819617.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819618.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://krasnodar.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819619.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819620.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://kurgan.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819621.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://kursk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819622.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://kyzyl.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819623.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://lipetsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819624.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://lyubertsy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819625.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://magnitogorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819626.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://maikop.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819627.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://makhachkala.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819628.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://miass.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819629.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://murom.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819631.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://mytischi.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819632.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://naberezhnye-chelny.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819633.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nazran.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819634.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nalchik.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819635.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nahodka.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819636.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nevinnomyssk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819637.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://neftekamsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819638.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nefteyugansk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819639.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nizhnevartovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819640.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nizhnekamsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819641.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nn.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819642.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nizhny-tagil.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819643.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://novokuznetsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819644.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://novokuybyshevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819645.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://novomoskovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819646.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://novorossiysk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819647.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://nsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819648.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://novocheboksarsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819649.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://novocherkassk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819650.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://novoshakhtinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819651.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://noginsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819653.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://obninsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819962.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://odintsovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819963.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://oktyabrskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819964.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://omsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819965.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://orel.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819966.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://orenburg.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819967.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://orehovo-zuevo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819968.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://orsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819969.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://penza.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819970.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://pervouralsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819971.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://perm.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819972.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://petrozavodsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819973.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://podolsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819975.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://prokopjevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819976.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://pskov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819977.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://pushkino.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819978.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://pyatigorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819979.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://ramenskoe.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819980.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://reutov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819981.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://rnd.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819982.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://rubtsovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819983.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://rybinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819984.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://ryazan.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819985.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://salavat.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819986.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://samara.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819987.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://spb.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819988.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://saransk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819989.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://saratov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819990.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://sevastopol.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819991.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://seversk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819993.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://sergiev-posad.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819994.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://serpukhov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819995.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://simferopol.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819996.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://smolensk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819997.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://sochi.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819998.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://stavropol.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39819999.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://stariy-oskol.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820000.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://sterlitamak.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820001.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://surgut.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820002.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://syzran.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820003.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://syktyvkar.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820004.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://tambov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820005.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://tver.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820006.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://tolyatti.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820007.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://tomsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820008.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://tula.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820009.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://taganrog.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820010.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://tyumen.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820049.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://ulan-ude.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820050.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://ulyanovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820051.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://ussuriysk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820052.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://ufa.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820053.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://habarovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820054.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://khanty-mansiisk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820055.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://khasavyurt.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820056.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://chelyabinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820059.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://cherepovets.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820060.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    },
+    {
+        "employer": "Яндекс",
+        "title": "Специалист службы поддержки с техническими знаниями (TOOLS)",
+        "url": "https://cherkessk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820061.html",
+        "api": "SuperJob",
+        "salary_from": 15000,
+        "salary_to": null
+    }
+]
