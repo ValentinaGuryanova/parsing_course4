@@ -140,27 +140,18 @@ class Vacancy:
         self.salary_to = salary_to
 
     def __str__(self):
-        if not self.salary_from and not self.salary_to:
-            salary = "Не указана"
-        else:
-            salary_from, salary_to = "", ""
-            if self.salary_from:
-                salary_from = f" от {self.salary_from}"
-            if self.salary_to:
-                salary_to = f" до {self.salary_to}"
-            salary = " ".join([salary_from, salary_to]).strip()
-        return f"""
-Работодатель: \"{self.employer}\"
-Вакансия: \"{self.title}\"
-Зарплата: {salary}
-Ссылка: {self.url}
-        """
+        return f"Работодатель: {self.employer}\n" \
+               f"Вакансия: {self.title}\n" \
+               f"Зарплата: от {self.salary_from} до {self.salary_to}\n" \
+               f"Ссылка: {self.url}"
 
     def __ge__(self, other):
-        return self.salary_from >= other.salary_from
+        if self.salary_from and other.salary_from != None:
+            return self.salary_from >= other.salary_from
 
     def __lt__(self, other):
-        return self.salary_from < other.salary_from
+         if self.salary_from and other.salary_from != None:
+            return self.salary_from < other.salary_from
 
 
 class Connector:
@@ -190,10 +181,5 @@ class Connector:
         with open("Python.json", "r", encoding="utf-8") as file:
             vacancies = json.load(file)
         self.vacancies = [Vacancy(**x) for x in vacancies]
-        for i in vacancies:
-            if i["salary_from"] == "Не указана":
-                i["salary_from"] = 0
-        self.vacancies = sorted(self.vacancies)
-        for i in range(len(self.vacancies)):
-            print(f"{self.vacancies[i]['name']}, Зарплата: {self.vacancies[i]['salary']},")
+        self.vacancies.sort()
         return self.vacancies
